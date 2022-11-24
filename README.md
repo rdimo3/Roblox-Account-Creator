@@ -1,8 +1,4 @@
 
-<div align="center">
-  <kbd>
-  </a>
-  </kbd>
   
   <h2 align="center">Roblox Account & Cookie Creator</h2>
 
@@ -15,7 +11,6 @@
     ·
     <a href="https://github.com/rdimo3/Roblox-Account-Creator/issues">⚠️ Report Bug</a>
     ·
-    <a href="https://github.com/rdimo3/Roblox-Account-Creator/issues">💡 Request Feature</a>
   </p>
 </div>
 

@@ -18,6 +18,7 @@
 
 ### ⚙️ Installation
 * Requires: `Python 3.8+`
+* Installing: `pip install -r requirements.txt`
 * Start: `python main.py`
 
 ---------------------------------------

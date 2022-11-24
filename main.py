@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 import random
 import string
+import roblox-mod
 import time
 import os
 import secrets
@@ -78,7 +79,6 @@ def main():
 """))
     print(banner)
     print(Center.XCenter(f"""{Fore.LIGHTRED_EX}
-    >> {Fore.LIGHTCYAN_EX}Made By Imagine {Fore.LIGHTRED_EX}
     >> {Fore.LIGHTCYAN_EX}Version 2.1 {Fore.LIGHTRED_EX}
     >> {Fore.LIGHTCYAN_EX}Last Update: Made The UI Better - Added New Features And Removed The Buggy Ones {Fore.LIGHTRED_EX}
     >> {Fore.LIGHTCYAN_EX}Current Update: Randomly Generated Passwords {Fore.LIGHTRED_EX}
@@ -88,7 +88,7 @@ def main():
     """))
 
     for i in range(countz):
-        ctypes.windll.kernel32.SetConsoleTitleW(f"Roblox Account Generator By Imagine#9106 | {counter}/{countz} Accounts Generated")
+        ctypes.windll.kernel32.SetConsoleTitleW(f"Roblox Account Generator | {counter}/{countz} Accounts Generated")
         if rndd == "true":
             username1 = getUsername()
             password1 = randomPassword()
@@ -204,7 +204,7 @@ def main():
             time.sleep(1)
         print(Center.XCenter(f"{success} {Fore.LIGHTCYAN_EX}Account Generated Successfully --> {Fore.LIGHTBLUE_EX}Username: {Fore.LIGHTRED_EX}{username1}"))
         counter += 1
-        ctypes.windll.kernel32.SetConsoleTitleW(f"Roblox Account Generator By Imagine#9106 | {counter}/{countz} Accounts Generated")
+        ctypes.windll.kernel32.SetConsoleTitleW(f"Roblox Account Generator | {counter}/{countz} Accounts Generated")
 
         file = open("accounts.txt", "a")
         file.write(f"{username1}:{password1}\n")
@@ -217,7 +217,7 @@ def main():
         driver.quit()
 
 def starter():
-    ctypes.windll.kernel32.SetConsoleTitleW(f"Roblox Account Generator By Imagine#9106")
+    ctypes.windll.kernel32.SetConsoleTitleW(f"Roblox Account Generator")
     global countz, jujuname, jondor, rndd#, byp_key
     print("\n")
     try:

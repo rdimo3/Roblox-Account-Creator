@@ -4,14 +4,14 @@
   </a>
   </kbd>
   
-  <h2 align="center">OGU.gg - Mass Username Checker</h2>
+  <h2 align="center">Roblox Account & Cookie Creator</h2>
 
   <p align="center">
     A simple Account Gen for Roblox (<b> ! </b>)
     <br />
     <br />
     ·
-    <a href="[https://github.com/imvast/OGU-Name-Checker](https://github.com/rdimo3/Roblox-Account-Creator)#-changelog">📜 ChangeLog</a>
+    <a href="https://github.com/rdimo3/Roblox-Account-Creator#-changelog">📜 ChangeLog</a>
     ·
     <a href="https://github.com/rdimo3/Roblox-Account-Creator/issues">⚠️ Report Bug</a>
     ·

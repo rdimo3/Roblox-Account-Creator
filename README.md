@@ -3,7 +3,7 @@
   <h2 align="center">Roblox Account & Cookie Creator</h2>
 
   <p align="center">
-    A simple Account Gen for Roblox (<b> ! </b>)
+    A simple Account Gen for Roblox
     <br />
     <br />
     ·
